@@ -6,7 +6,6 @@
  * Last Revision 3/16/2012
  * multi-selectable, multi-sortable jQuery plugin
  */
-
 !function($) {
 
 	$.fn.multiselectable = function(options) {
